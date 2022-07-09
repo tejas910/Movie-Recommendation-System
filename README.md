@@ -3,5 +3,4 @@ This system basically recommend you the movie based on your content based what y
 Check Here :- https://movie-recommended-system-fast.herokuapp.com/ 
 
 
-<a href="/home/tejas/Pictures/1.png
-"></a>
+<a href="https://drive.google.com/file/d/1O0XSl2xYYWCPLWb8DW4NIdKDvCDV24vq/view?usp=sharing"></a>
